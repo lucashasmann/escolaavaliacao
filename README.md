@@ -45,7 +45,7 @@ Siga os passos abaixo para configurar e testar o sistema localmente:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/GuilhermeCanina/escolaavaliacao.git
+git clone https://github.com/lucashasmann/escolaavaliacao.git
 cd escolaavaliacao
 ```
 
